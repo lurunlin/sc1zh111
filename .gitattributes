@@ -1,3 +1,6 @@
 .git/global-metadata.dat filter=lfs diff=lfs merge=lfs -text
 .git/dump.cs filter=lfs diff=lfs merge=lfs -text
 .git/GameAssembly.dll filter=lfs diff=lfs merge=lfs -text
+.git/GameAssembly.dll filter=lfs diff=lfs merge=lfs -text
+.git/global-metadata.dat filter=lfs diff=lfs merge=lfs -text
+.git/dump.cs filter=lfs diff=lfs merge=lfs -text
